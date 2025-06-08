@@ -11,7 +11,7 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 
 2: Acceder a la carpeta que contenga el poryecto
 
-cd recomedador_proyect2
+cd  Proyect2_ML
 
 3: crear un entorno virtual (opcional)
 py -m venv venv
