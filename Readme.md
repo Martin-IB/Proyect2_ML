@@ -13,7 +13,7 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 
 cd  Proyect2_ML
 
-3: crear un entorno virtual (opcional)
+3: crear un entorno virtual 
 py -m venv venv
 
 4: activar el entono virual
