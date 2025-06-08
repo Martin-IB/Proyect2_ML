@@ -7,7 +7,7 @@ Desde el terminal de consola seguir los siguientes pasos:
 
 1: clonar la carpeta del proyecto desde hithub 
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Martin-IB/nuevo_app.git
 
 2: Acceder a la carpeta que contenga el poryecto
 
